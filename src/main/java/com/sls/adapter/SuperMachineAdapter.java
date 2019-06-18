@@ -6,6 +6,7 @@ import com.sls.adapter.IdCardMachine;
 import com.sls.adapter.MachineType;
 
 /**
+ * 高级机器内部处理器
  * @author sls
  **/
 public class SuperMachineAdapter implements SuperMachine {
@@ -14,7 +15,7 @@ public class SuperMachineAdapter implements SuperMachine {
         switch (machineType) {
             case ID_CARD:
                 CardMachine cardMachine = new IdCardMachine();
-                cardMachine.blushBankCard(number);
+                cardMachine.blushIdCard(number);
                 break;
             case BANK_CARD:
                 CardMachine cardMachine2 = new BankCardMachine();

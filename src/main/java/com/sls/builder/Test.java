@@ -1,6 +1,7 @@
 package com.sls.builder;
 
 /**
+ * 建造者模式
  * @author sls
  **/
 public class Test {

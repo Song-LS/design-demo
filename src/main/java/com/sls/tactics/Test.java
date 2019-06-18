@@ -3,6 +3,7 @@ package com.sls.tactics;
 import java.math.BigDecimal;
 
 /**
+ * java策略模式
  * @author sls
  **/
 public class Test {

@@ -12,6 +12,6 @@ public class BankCardMachine implements CardMachine {
 
     @Override
     public void blushBankCard(String number) {
-        System.out.println("银行卡刷卡器执行刷卡，卡号:" + number);
+        System.out.println("银行卡刷卡器执行刷卡，卡号：" + number);
     }
 }

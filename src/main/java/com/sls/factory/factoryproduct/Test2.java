@@ -1,6 +1,7 @@
 package com.sls.factory.factoryproduct;
 
 /**
+ * 工厂模式
  * @author sls
  **/
 public class Test2 {

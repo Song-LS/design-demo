@@ -5,6 +5,7 @@ import cn.gjing.TimeUtil;
 import java.time.LocalDateTime;
 
 /**
+ * java适配器模式
  * @author sls
  **/
 public class Test {

@@ -1,6 +1,7 @@
 package com.sls.observer;
 
 /**
+ * java观察者模式
  * @author sls
  **/
 public class Test {
